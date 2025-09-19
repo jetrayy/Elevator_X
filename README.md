@@ -10,7 +10,7 @@ The system supports two types of users:
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Frontend**: PHP, HTML, CSS, JavaScript
 - **Backend**: PHP
